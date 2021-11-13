@@ -1,6 +1,6 @@
 
 I am a software engineer from Turkey 🇹🇷 </br>
-I am on for now Frontend :smile:
+
 
 **Currently working as**  <a href="https://www.bulutmd.com/" target="_blank"><b>BulutMD Yazılım</b></a>
 
