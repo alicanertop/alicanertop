@@ -1,5 +1,5 @@
 
-I am a software engineer from Turkey 🇹🇷 </br>
+I am a software engineer from Turkey </br>
 
 
 **Currently working in**  <a href="https://beyn.com.tr/" target="_blank"><b>Beyn Technology</b></a>
